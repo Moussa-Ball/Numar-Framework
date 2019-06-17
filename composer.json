@@ -1,0 +1,13 @@
+{
+    "name": "moussa-ball/numar",
+    "description": "The Numar Framework",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Moussa Ball",
+            "email": "moiseball20155@gmail.com"
+        }
+    ],
+    "require": {}
+}
